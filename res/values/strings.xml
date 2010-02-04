@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HatenaAccountSample!</string>
+    <string name="app_name">HatenaAccountSample</string>
+
+	<string name="cancel">Cancel</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="ok">OK</string>
+
+	<string name="account_title">Login</string>
+	<string name="account_title_logout">Logout</string>
+	<string name="account_summary">You're currently not logged in</string>
+	<string name="account_summary_loggedin">Logged in as %1$s</string>
+
+	<string name="already_logged_in">Logout</string>
+	<string name="already_logged_in_message">You're already logged in as %1$s. Logout from this account?</string>
+
+	<string name="install_hatena_account_title">Install Hatena Account Manager?</string>
+	<string name="install_hatena_account_message">This application requires Hatena Account Manager. Tap "OK" to access Android Market.</string>
+</resources>
