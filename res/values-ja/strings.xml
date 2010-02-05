@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HatenaAccountSample!</string>
+    <string name="app_name">HatenaAccountSample</string>
+
+	<string name="cancel">キャンセル</string>
+	<string name="yes">はい</string>
+	<string name="no">いいえ</string>
+	<string name="ok">OK</string>
+
+	<string name="account_title">ログイン</string>
+	<string name="account_title_logout">ログアウト</string>
+	<string name="account_summary">現在、ログインしていません</string>
+	<string name="account_summary_loggedin">%1$sでログインしています</string>
+
+	<string name="already_logged_in">ログアウト</string>
+	<string name="already_logged_in_message">%1$sとしてログイン済みです。ログアウトしますか？</string>
+
+	<string name="install_hatena_account_title">はてなログイン管理をインストール</string>
+	<string name="install_hatena_account_message">はてなログイン管理が必要です。マーケットからインストールしてください。OKボタンでマーケットで移動します。
+	</string>
+</resources>
